@@ -12,9 +12,6 @@ while(firstterm<=nthterm){
 i=firstterm*firstterm;
 sum=sum+i;
 
-
-
-
 firstterm++;
 }
 cout<<sum;
